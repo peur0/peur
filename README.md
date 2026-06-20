@@ -1,34 +1,58 @@
 # 👋 Hey there, I'm Peur!
 
-💻 **Python & TypeScript & GO Developer**  
-🧑🏽‍💻 **AI and Full Stack professional**  
+🤖 **AI Engineer**
+🔐 **Ethical Hacker | Pentester**
+🐍 **Python & JavaScript Developer**
 
 ---
+
 Welcome to my GitHub profile!
 
-I am a technology enthusiast and developer passionate about Artificial Intelligence, scalable backend systems, and modern web development. I enjoy building efficient, high-performance solutions, automating processes, and solving real-world problems with clean code.
-My main skills are Python (focused on AI, FastAPI and automation), TypeScript (Next.js) and Go for robust and high-performance backend applications.
+I am an AI Engineer, Pentester, and Software Developer passionate about Artificial Intelligence, Cybersecurity, Automation, and Offensive Security.
+
+My work focuses on building AI-powered solutions, developing intelligent automations, performing security assessments, researching vulnerabilities, and creating scalable applications using Python and JavaScript.
+
+I enjoy building AI agents, automating complex workflows, testing application security, and solving real-world problems through technology.
+
 ---
 
 ## 🚀 About Me
 
-- 🐍 Python developer focused on IA, FastAPI and automatice
-- 🔷 TypeScript developer focused on modern frontend interfaces and web applications
-- 🐹 Go developer focused on high-performance backend applications
+- 🤖 AI Engineer focused on LLMs, AI Agents and Intelligent Automation
+- 🔐 Ethical Hacker & Pentester focused on Web Security, APIs and Vulnerability Assessment
+- 🐍 Python Developer focused on AI, Automation and Backend Development
+- 🌐 JavaScript Developer focused on Web Applications and Automation
+- 🚩 Passionate about Cybersecurity, Offensive Security and Security Research
+- ⚡ Always exploring new technologies in AI and Hacking
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-  <p align="left">
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="45"/>
 </p>
 
+### 🤖 AI & Automation
 
-### 🔐 Jobs
 <p align="left">
+  <img src="https://cdn.simpleicons.org/langchain" width="40" height="45"/>
   <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="45"/>
-<img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="45"/>
-<img src="https://cdn.simpleicons.org/postgresql" width="40" height="45"/>
+</p>
+
+### 🔐 Cybersecurity
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/kalilinux" width="40" height="45"/>
+  <img src="https://cdn.simpleicons.org/owasp" width="40" height="45"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/fastapi" width="40" height="45"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="40" height="45"/>
 </p>
