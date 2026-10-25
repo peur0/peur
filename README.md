@@ -1,103 +1,73 @@
-# 👋 Hey there, I'm Peur
+# Hey, I'm Peur 👋
 
-### 💻 Software Engineer • 🤖 AI Engineer • ⚡ Backend Developer
+### Software Developer | Full-Stack Development & AI
 
-I'm passionate about building scalable software, AI-powered applications, and high-performance backend systems.
+I build modern web applications, explore AI-powered solutions, and turn ideas into practical software.
 
-My work focuses on developing intelligent products with LLMs, designing modern APIs, building distributed systems, and creating automation solutions using Python, Go, TypeScript, Node.js, and React.
+I'm focused on writing clean, maintainable code, solving real-world problems, and continuously improving as a developer.
 
-Currently exploring AI Engineering, System Design, Cloud Computing, and high-performance backend development.
-
----
-
-## 🚀 About Me
-
-- 🤖 Building AI Agents, LLM Applications and RAG Systems
-- 🐍 Backend Development with Python & FastAPI
-- ⚡ High-performance APIs and Microservices with Go (Golang)
-- 💙 Full Stack Development with TypeScript, Node.js & React
-- ☁️ Interested in Cloud, DevOps and Distributed Systems
-- 🏗️ Clean Architecture, Scalable Systems & Performance
-- 🚀 Always learning and building new things
+My goal is to build software that is useful, reliable, and designed to make a difference.
 
 ---
 
-# 🛠 Tech Stack
+### 🚀 Tech Stack
 
-## 💻 Languages
+**Languages**
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+**Web Development**
 
-## ⚙️ Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/fastapi" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/express" width="45"/>
-  <img src="https://cdn.simpleicons.org/docker" width="45"/>
-</p>
+**Backend & Data**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🎨 Frontend
+**Tools & Workflow**
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="45"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="45"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🤖 AI & Machine Learning
+### 💡 What I'm Working Towards
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/langchain" width="45"/>
-  <img src="https://cdn.simpleicons.org/tensorflow" width="45"/>
-  <img src="https://cdn.simpleicons.org/pytorch" width="45"/>
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/postgresql" width="45"/>
-  <img src="https://cdn.simpleicons.org/mysql" width="45"/>
-  <img src="https://cdn.simpleicons.org/mongodb" width="45"/>
-  <img src="https://cdn.simpleicons.org/redis" width="45"/>
-</p>
+- Building full-stack web applications.
+- Developing backend services and REST APIs.
+- Integrating AI into practical applications.
+- Improving software architecture, code quality, and problem-solving.
+- Building projects that demonstrate real-world development skills.
 
 ---
 
-## ☁️ DevOps & Cloud
+### 📌 Featured Projects
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/docker" width="45"/>
-  <img src="https://cdn.simpleicons.org/git" width="45"/>
-  <img src="https://cdn.simpleicons.org/githubactions" width="45"/>
-  <img src="https://cdn.simpleicons.org/linux" width="45"/>
-  <img src="https://cdn.simpleicons.org/nginx" width="45"/>
-</p>
+**Full-Stack Web Applications**  
+Modern, responsive applications with a focus on usability, performance, and maintainable code.
 
----
+**AI-Powered Tools**  
+Practical applications that use AI to automate tasks and solve everyday problems.
 
-## 📚 Currently Learning
+**Backend & API Projects**  
+APIs, data management, authentication, and integrations that power real applications.
 
-- Go (Advanced Concurrency & Microservices)
-- Kubernetes
-- System Design
-- AWS
-- Distributed Systems
-- AI Agents & Multi-Agent Systems
+*Explore my repositories to see what I'm building.*
 
 ---
 
-> *"Building scalable software, intelligent systems and modern backend solutions."*
+### 🌎 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peur0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peur)
+
+---
+
+*Building, learning, and shipping — one project at a time.*
